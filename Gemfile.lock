@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    graphql (1.6.3)
+    graphql-batch (0.3.3)
+      graphql (>= 0.8, < 2)
+      promise.rb (~> 0.7.2)
+    promise.rb (0.7.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  graphql-batch
+
+BUNDLED WITH
+   1.15.1
